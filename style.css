@@ -7,7 +7,7 @@ body {
 
 @font-face {
     font-family: silk;
-    src: url(/fonts/fontscore.ttf);
+    src: url(fonts/fontscore.ttf);
 }
 
 .container {
